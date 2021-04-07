@@ -2,4 +2,4 @@
 
 copy comment.sh to /usr/local/bin/ 
 
-```Usage: koment.sh <issueID>|<key>
+Usage: koment.sh issueID|key
